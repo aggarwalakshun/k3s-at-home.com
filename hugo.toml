@@ -7,3 +7,6 @@ theme = 'hugo-theme-relearn'
   collapsibleMenu = true
   alwaysopen = false
   customCSS = ["css/custom.css"]
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
