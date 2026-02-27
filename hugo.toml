@@ -1,0 +1,9 @@
+baseURL = 'https://k3s-at-home.com'
+languageCode = 'en-us'
+title = 'K3s-at-Home'
+theme = 'hugo-theme-relearn'
+
+[params]
+  collapsibleMenu = true
+  alwaysopen = false
+  customCSS = ["css/custom.css"]
